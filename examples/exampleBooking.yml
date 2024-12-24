@@ -1,0 +1,26 @@
+targets:
+  - url: "https://www.booking.com/searchresults.pt-pt.html?ss=Paris&dest_id=-1456928&dest_type=city&checkin=2024-12-28&checkout=2025-01-15&group_adults=2&no_rooms=1&group_children=0"
+    data:
+      list:
+        container: ".c066246e13"
+        fields:
+        - name: "hotel_name"
+          selector: ".f6431b446c.a15b38c233"
+          type: "text"
+
+        - name: "price"
+          selector: ".f6431b446c.fbfd7c1165.e84eb96b1f"
+          type: "text"
+
+        - name: "rating"
+          selector: ".a3b8729ab1.d86cee9b25"
+          type: "text"
+
+    pagination:
+      url_template: "?page={num}"
+      max_pages: 1
+      navigation: "url"
+
+output:
+  format: "json"
+  file: "booking-paris.json"

@@ -1,0 +1,30 @@
+targets:
+  - url: "https://www.olx.pt/ads/q-iphone/"
+    data:
+      list:
+        container: ".css-qfzx1y"
+        fields:
+        - name: "product_name"
+          selector: ".css-1s3qyje"
+          type: "text"
+
+        - name: "price"
+          selector: ".css-13afqrm"
+          type: "text"
+
+        - name: "image"
+          selector: ".css-8wsg1m"
+          type: "image"
+
+        - name: "details"
+          selector: ".css-1mwdrlh"
+          type: "text"
+
+    pagination:
+      url_template: "?page={num}"
+      max_pages: 5
+      navigation: "url"
+
+output:
+  format: "json"
+  file: "olx-iphone.json"

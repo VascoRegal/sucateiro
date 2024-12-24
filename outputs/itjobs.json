@@ -1,0 +1,452 @@
+[
+    {
+        "job_title": "DevOps Engineer",
+        "day": null,
+        "month": null,
+        "image": "https://static.itjobs.pt/images/companies/48/ab2/624/logo.png?btfc=1480344282",
+        "company": "Outsoft",
+        "location": "Aveiro, Viseu, Porto",
+        "salary": null
+    },
+    {
+        "job_title": "DevOps Engineer",
+        "day": 30,
+        "month": "nov",
+        "image": "https://static.itjobs.pt/images/companies/d5/e70/7418/logo.png?btfc=1729857387",
+        "company": "GBT Solutions",
+        "location": null,
+        "salary": null
+    },
+    {
+        "job_title": "DevOps On-Premises (Microservices & Kubernetes)",
+        "day": 17,
+        "month": "dez",
+        "image": "https://static.itjobs.pt/images/companies/d5/e70/7418/logo.png?btfc=1729857387",
+        "company": "GBT Solutions",
+        "location": "Lisboa",
+        "salary": null
+    },
+    {
+        "job_title": "DevOps Engineer",
+        "day": 4,
+        "month": "dez",
+        "image": "https://static.itjobs.pt/images/companies/0e/915/6731/logo.png?btfc=1719945905",
+        "company": "YellowIpe",
+        "location": "Porto",
+        "salary": null
+    },
+    {
+        "job_title": "DevOps Engineer",
+        "day": 22,
+        "month": "nov",
+        "image": "https://static.itjobs.pt/images/companies/20/754/7632/logo.png?btfc=1732276432",
+        "company": "Softarex Technologies",
+        "location": "Lisboa, Porto, Internacional",
+        "salary": "\u20ac60\u00a0000"
+    },
+    {
+        "job_title": "Devops/Platform Architect",
+        "day": 17,
+        "month": "dez",
+        "image": "https://static.itjobs.pt/images/companies/0e/fe3/885/logo.png?btfc=1659802323",
+        "company": "Michael Page Portugal",
+        "location": "Aveiro",
+        "salary": "\u20ac55\u00a0000"
+    },
+    {
+        "job_title": "Devops/Platform Architect",
+        "day": 10,
+        "month": "dez",
+        "image": "https://static.itjobs.pt/images/companies/0e/fe3/885/logo.png?btfc=1659802323",
+        "company": "Michael Page Portugal",
+        "location": "Aveiro",
+        "salary": "\u20ac55\u00a0000"
+    },
+    {
+        "job_title": "DevOps Engineer",
+        "day": 23,
+        "month": "dez",
+        "image": "https://static.itjobs.pt/images/companies/ad/8e8/2947/logo.png?btfc=1735056658",
+        "company": "Adentis",
+        "location": "Porto",
+        "salary": null
+    },
+    {
+        "job_title": "Infrastructure Engineer \u2013 Senior DevOps Engineer",
+        "day": 16,
+        "month": "dez",
+        "image": "https://static.itjobs.pt/images/companies/02/2e0/6451/logo.png?btfc=1721835002",
+        "company": "GRiT Solutions",
+        "location": "Lisboa, Porto",
+        "salary": null
+    },
+    {
+        "job_title": "Senior DevOps Engineer - Previous exp with MATLAB/Simulink",
+        "day": 12,
+        "month": "dez",
+        "image": "https://static.itjobs.pt/images/companies/d9/3ed/984/logo.png?btfc=1685987163",
+        "company": "KCS IT",
+        "location": "Leiria, Lisboa, Porto",
+        "salary": null
+    },
+    {
+        "job_title": "DevOps Engineer",
+        "day": 5,
+        "month": "dez",
+        "image": "https://static.itjobs.pt/images/companies/b6/283/2714/logo.png?btfc=1675705639",
+        "company": "Dellent",
+        "location": "Coimbra",
+        "salary": null
+    },
+    {
+        "job_title": "DevOps",
+        "day": 4,
+        "month": "dez",
+        "image": "https://static.itjobs.pt/images/companies/2b/cab/995/logo.png?btfc=1727821235",
+        "company": "Integer Consulting",
+        "location": "Lisboa, Set\u00fabal, Porto",
+        "salary": null
+    },
+    {
+        "job_title": "DevOps Azure Engineer",
+        "day": 3,
+        "month": "dez",
+        "image": "https://static.itjobs.pt/images/companies/dc/09c/1479/logo.png?btfc=1716454542",
+        "company": "Devoteam",
+        "location": "Lisboa",
+        "salary": null
+    },
+    {
+        "job_title": "DevOps Engineer",
+        "day": null,
+        "month": null,
+        "image": "https://static.itjobs.pt/images/companies/48/ab2/624/logo.png?btfc=1480344282",
+        "company": "Outsoft",
+        "location": "Aveiro, Viseu, Porto",
+        "salary": null
+    },
+    {
+        "job_title": "DevOps Engineering",
+        "day": 2,
+        "month": "dez",
+        "image": "https://static.itjobs.pt/images/companies/dc/09c/1479/logo.png?btfc=1716454542",
+        "company": "Devoteam",
+        "location": "Aveiro, Lisboa, Porto",
+        "salary": null
+    },
+    {
+        "job_title": "DevOps",
+        "day": 30,
+        "month": "nov",
+        "image": "https://static.itjobs.pt/images/companies/c5/dc3/2517/logo.png?btfc=1727798787",
+        "company": "Decskill",
+        "location": "Lisboa, Porto",
+        "salary": null
+    },
+    {
+        "job_title": "Junior/Middle DevOps Engineer",
+        "day": 28,
+        "month": "nov",
+        "image": "https://static.itjobs.pt/images/companies/c3/7f3/7635/logo.png?btfc=1732717661",
+        "company": "Overance",
+        "location": null,
+        "salary": null
+    },
+    {
+        "job_title": "System Engineer - DevOps",
+        "day": 26,
+        "month": "nov",
+        "image": "https://static.itjobs.pt/images/companies/02/2e0/6451/logo.png?btfc=1721835002",
+        "company": "GRiT Solutions",
+        "location": "Lisboa, Porto",
+        "salary": null
+    },
+    {
+        "job_title": "DevOps",
+        "day": 25,
+        "month": "nov",
+        "image": "https://static.itjobs.pt/images/companies/dc/09c/1479/logo.png?btfc=1716454542",
+        "company": "Devoteam",
+        "location": "Aveiro, Lisboa, Porto",
+        "salary": null
+    },
+    {
+        "job_title": "Senior DevOps Expert",
+        "day": 24,
+        "month": "nov",
+        "image": "https://static.itjobs.pt/images/companies/dc/09c/1479/logo.png?btfc=1716454542",
+        "company": "Devoteam",
+        "location": "Aveiro, Lisboa, Porto",
+        "salary": null
+    },
+    {
+        "job_title": "Senior DevOps AWS",
+        "day": 22,
+        "month": "nov",
+        "image": "https://static.itjobs.pt/images/companies/16/a5c/286/logo.png?btfc=1726606083",
+        "company": "Eurotux",
+        "location": "Braga, Bragan\u00e7a",
+        "salary": null
+    },
+    {
+        "job_title": "Senior DevOps",
+        "day": 21,
+        "month": "nov",
+        "image": "https://static.itjobs.pt/images/companies/2b/cab/995/logo.png?btfc=1727821235",
+        "company": "Integer Consulting",
+        "location": "Lisboa",
+        "salary": null
+    },
+    {
+        "job_title": "DevOps Manager",
+        "day": 23,
+        "month": "dez",
+        "image": "https://static.itjobs.pt/images/companies/e1/dc4/6431/logo.png?btfc=1733497938",
+        "company": "Qualitest",
+        "location": "Lisboa",
+        "salary": null
+    },
+    {
+        "job_title": "DevOps Engineer",
+        "day": 20,
+        "month": "dez",
+        "image": "https://static.itjobs.pt/images/companies/85/e55/4598/logo.png?btfc=1729858554",
+        "company": "KWAN",
+        "location": "Porto",
+        "salary": null
+    },
+    {
+        "job_title": "DevOps Engineer",
+        "day": 19,
+        "month": "dez",
+        "image": "https://static.itjobs.pt/images/companies/85/e55/4598/logo.png?btfc=1729858554",
+        "company": "KWAN",
+        "location": "Lisboa",
+        "salary": null
+    },
+    {
+        "job_title": "DevOps Engineer",
+        "day": 15,
+        "month": "dez",
+        "image": "https://static.itjobs.pt/images/companies/21/9c5/6466/logo.png?btfc=1708039331",
+        "company": "Neotalent Conclusion",
+        "location": null,
+        "salary": null
+    },
+    {
+        "job_title": "DevOps Engineer",
+        "day": null,
+        "month": null,
+        "image": "https://static.itjobs.pt/images/companies/48/ab2/624/logo.png?btfc=1480344282",
+        "company": "Outsoft",
+        "location": "Aveiro, Viseu, Porto",
+        "salary": null
+    },
+    {
+        "job_title": "DevOps Engineer",
+        "day": 13,
+        "month": "dez",
+        "image": "https://static.itjobs.pt/images/companies/21/9c5/6466/logo.png?btfc=1708039331",
+        "company": "Neotalent Conclusion",
+        "location": null,
+        "salary": null
+    },
+    {
+        "job_title": "DevOps - Cloud",
+        "day": 9,
+        "month": "dez",
+        "image": "https://static.itjobs.pt/images/companies/dc/09c/1479/logo.png?btfc=1716454542",
+        "company": "Devoteam",
+        "location": "Aveiro, Lisboa, Porto",
+        "salary": null
+    },
+    {
+        "job_title": "DevOps Engineer",
+        "day": 8,
+        "month": "dez",
+        "image": "https://static.itjobs.pt/images/companies/2e/7ce/2702/logo.png?btfc=1721986108",
+        "company": "Growin - Know to grow",
+        "location": "Aveiro, Braga, Lisboa, Porto",
+        "salary": null
+    },
+    {
+        "job_title": "Senior DevOps Engineer",
+        "day": 5,
+        "month": "dez",
+        "image": "https://static.itjobs.pt/images/companies/ff/eab/575/logo.png?btfc=1711984278",
+        "company": "Xpand IT",
+        "location": "Braga, Lisboa, Viana do Castelo",
+        "salary": null
+    },
+    {
+        "job_title": "DevOps Engineer",
+        "day": 4,
+        "month": "dez",
+        "image": "https://static.itjobs.pt/images/companies/2e/7ce/2702/logo.png?btfc=1721986108",
+        "company": "Growin - Know to grow",
+        "location": null,
+        "salary": null
+    },
+    {
+        "job_title": "DevOps Engineer",
+        "day": 2,
+        "month": "dez",
+        "image": "https://static.itjobs.pt/images/companies/0e/915/6731/logo.png?btfc=1719945905",
+        "company": "YellowIpe",
+        "location": "Aveiro, Braga, Porto",
+        "salary": null
+    },
+    {
+        "job_title": "Junior DevOps Engineer",
+        "day": 30,
+        "month": "nov",
+        "image": "https://static.itjobs.pt/images/companies/b6/283/2714/logo.png?btfc=1675705639",
+        "company": "Dellent",
+        "location": "Porto",
+        "salary": null
+    },
+    {
+        "job_title": "DevOps Engineer",
+        "day": 28,
+        "month": "nov",
+        "image": "https://static.itjobs.pt/images/companies/b6/283/2714/logo.png?btfc=1675705639",
+        "company": "Dellent",
+        "location": "Lisboa",
+        "salary": null
+    },
+    {
+        "job_title": "Cloud DevOps Engineer",
+        "day": 24,
+        "month": "nov",
+        "image": "https://static.itjobs.pt/images/companies/dc/09c/1479/logo.png?btfc=1716454542",
+        "company": "Devoteam",
+        "location": "Aveiro, Lisboa, Porto",
+        "salary": null
+    },
+    {
+        "job_title": "DevOps / Solutions Architect",
+        "day": 21,
+        "month": "nov",
+        "image": "https://static.itjobs.pt/images/companies/fb/aaf/7630/logo.png?btfc=1732094327",
+        "company": "Koloni",
+        "location": "Lisboa",
+        "salary": null
+    },
+    {
+        "job_title": "DevOps Engineer",
+        "day": null,
+        "month": null,
+        "image": "https://static.itjobs.pt/images/companies/48/ab2/624/logo.png?btfc=1480344282",
+        "company": "Outsoft",
+        "location": "Aveiro, Viseu, Porto",
+        "salary": null
+    },
+    {
+        "job_title": "DevOps",
+        "day": 2,
+        "month": "dez",
+        "image": "https://static.itjobs.pt/images/companies/2b/cab/995/logo.png?btfc=1727821235",
+        "company": "Integer Consulting",
+        "location": "Aveiro, Beja, Braga, Bragan\u00e7a, Castelo Branco, Coi...",
+        "salary": null
+    },
+    {
+        "job_title": "Senior DevOps Engineer",
+        "day": 13,
+        "month": "dez",
+        "image": "https://static.itjobs.pt/images/companies/2b/cab/995/logo.png?btfc=1727821235",
+        "company": "Integer Consulting",
+        "location": "Lisboa",
+        "salary": null
+    },
+    {
+        "job_title": "DevOps Engineer",
+        "day": 9,
+        "month": "dez",
+        "image": "https://static.itjobs.pt/images/companies/48/ab2/624/logo.png?btfc=1480344282",
+        "company": "Outsoft",
+        "location": "Aveiro, Viseu, Porto",
+        "salary": null
+    },
+    {
+        "job_title": "DevOps Engineer",
+        "day": 19,
+        "month": "dez",
+        "image": "https://static.itjobs.pt/images/companies/31/2ec/7631/logo.png?btfc=1735056958",
+        "company": "LUZA Group",
+        "location": "Lisboa",
+        "salary": null
+    },
+    {
+        "job_title": "Lead Fullstack Developer (Node.JS / Angular)",
+        "day": 16,
+        "month": "dez",
+        "image": "https://static.itjobs.pt/images/companies/b0/ba5/6807/logo.png?btfc=1708445349",
+        "company": "Altar.io",
+        "location": "Aveiro, Braga, Coimbra, Faro, Lisboa, Set\u00fabal, Por...",
+        "salary": "\u20ac55\u00a0000"
+    },
+    {
+        "job_title": "Senior Fullstack Developer (Node.JS / Angular)",
+        "day": 19,
+        "month": "dez",
+        "image": "https://static.itjobs.pt/images/companies/b0/ba5/6807/logo.png?btfc=1708445349",
+        "company": "Altar.io",
+        "location": "Aveiro, Braga, Coimbra, Faro, Lisboa, Set\u00fabal, Por...",
+        "salary": "\u20ac45\u00a0000"
+    },
+    {
+        "job_title": "Fullstack Developer (Node.JS / Angular)",
+        "day": 9,
+        "month": "dez",
+        "image": "https://static.itjobs.pt/images/companies/b0/ba5/6807/logo.png?btfc=1708445349",
+        "company": "Altar.io",
+        "location": "Aveiro, Braga, Coimbra, Faro, Lisboa, Set\u00fabal, Por...",
+        "salary": "\u20ac40\u00a0000"
+    },
+    {
+        "job_title": "Fullstack Developer",
+        "day": 10,
+        "month": "dez",
+        "image": "https://static.itjobs.pt/images/companies/cc/1aa/977/logo.png?btfc=1666799406",
+        "company": "MyPeople",
+        "location": "Lisboa",
+        "salary": "\u20ac40\u00a0000"
+    },
+    {
+        "job_title": "C# Developer",
+        "day": 11,
+        "month": "dez",
+        "image": "https://static.itjobs.pt/images/companies/0e/fe3/885/logo.png?btfc=1659802323",
+        "company": "Michael Page Portugal",
+        "location": "Lisboa",
+        "salary": "\u20ac30\u00a0800"
+    },
+    {
+        "job_title": ".NET Developer",
+        "day": 23,
+        "month": "dez",
+        "image": "https://static.itjobs.pt/images/companies/d5/e70/7418/logo.png?btfc=1729857387",
+        "company": "GBT Solutions",
+        "location": "Lisboa",
+        "salary": null
+    },
+    {
+        "job_title": "Data Driven | Lead Data Engineer / Lead Data Architect",
+        "day": 20,
+        "month": "dez",
+        "image": "https://static.itjobs.pt/images/companies/dc/09c/1479/logo.png?btfc=1716454542",
+        "company": "Devoteam",
+        "location": "Aveiro, Lisboa, Porto",
+        "salary": null
+    },
+    {
+        "job_title": "Salesforce Developer",
+        "day": 19,
+        "month": "dez",
+        "image": "https://static.itjobs.pt/images/companies/5b/69b/501/logo.png?btfc=1728592402",
+        "company": "Noesis Portugal",
+        "location": "Lisboa",
+        "salary": null
+    }
+]
