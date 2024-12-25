@@ -1,0 +1,377 @@
+[
+    {
+        "hotel_name": "All Suites Appart & Hotel Paris 13 Porte d'Italie",
+        "price": 2039,
+        "rating": 7.6
+    },
+    {
+        "hotel_name": "B&B HOTEL Paris 17 Batignolles",
+        "price": 2471,
+        "rating": 8.0
+    },
+    {
+        "hotel_name": "B&B HOTEL Paris Porte des Lilas",
+        "price": 2106,
+        "rating": 7.8
+    },
+    {
+        "hotel_name": "B&B HOTEL Paris Porte de la Villette",
+        "price": 1763,
+        "rating": 6.7
+    },
+    {
+        "hotel_name": "Hôtel des Andelys",
+        "price": 1302,
+        "rating": 4.0
+    },
+    {
+        "hotel_name": "Residence Inn by Marriott Paris Didot Montparnasse",
+        "price": 4003,
+        "rating": 8.4
+    },
+    {
+        "hotel_name": "Best Western Hotel Le Montparnasse",
+        "price": 3878,
+        "rating": 8.0
+    },
+    {
+        "hotel_name": "HOTEL AU COEUR DES ARTS ET METIERS",
+        "price": 3313,
+        "rating": 8.1
+    },
+    {
+        "hotel_name": "Hôtel Maison Traversière",
+        "price": 3204,
+        "rating": 8.7
+    },
+    {
+        "hotel_name": "Maison Athénée",
+        "price": 5963,
+        "rating": 8.4
+    },
+    {
+        "hotel_name": "Appart'City Collection Paris Grande Bibliothèque",
+        "price": 2416,
+        "rating": 7.5
+    },
+    {
+        "hotel_name": "WS Louvre - Casanova",
+        "price": 3086,
+        "rating": 8.1
+    },
+    {
+        "hotel_name": "Sejours & Affaires Paris-Davout",
+        "price": 1832,
+        "rating": 8.0
+    },
+    {
+        "hotel_name": "Simon's Boutique Hôtel",
+        "price": 2275,
+        "rating": 8.1
+    },
+    {
+        "hotel_name": "Hôtel Ambre",
+        "price": 2574,
+        "rating": 7.4
+    },
+    {
+        "hotel_name": "Hotel Royal Phare",
+        "price": 4094,
+        "rating": 8.4
+    },
+    {
+        "hotel_name": "Hôtel Dalila",
+        "price": 2093,
+        "rating": 8.4
+    },
+    {
+        "hotel_name": "ibis Paris Gare du Nord Château Landon 10ème",
+        "price": 2619,
+        "rating": 7.5
+    },
+    {
+        "hotel_name": "Hôtel Royal de France Paris 10",
+        "price": 2521,
+        "rating": 2.9
+    },
+    {
+        "hotel_name": "WS Opéra - Laffitte",
+        "price": 2843,
+        "rating": 7.6
+    },
+    {
+        "hotel_name": "Le Trente",
+        "price": 2339,
+        "rating": 7.9
+    },
+    {
+        "hotel_name": "YOOMA Urban Lodge Tour Eiffel",
+        "price": 3627,
+        "rating": 8.4
+    },
+    {
+        "hotel_name": "Cosmotel Hotel",
+        "price": 3536,
+        "rating": 8.4
+    },
+    {
+        "hotel_name": "Residhome Paris Opéra",
+        "price": 3845,
+        "rating": 7.6
+    },
+    {
+        "hotel_name": "Faubourg Saint Denis",
+        "price": 1559,
+        "rating": null
+    },
+    {
+        "hotel_name": "All Suites Appart & Hotel Paris 13 Porte d'Italie",
+        "price": 2039,
+        "rating": 7.6
+    },
+    {
+        "hotel_name": "B&B HOTEL Paris 17 Batignolles",
+        "price": 2471,
+        "rating": 8.0
+    },
+    {
+        "hotel_name": "B&B HOTEL Paris Porte des Lilas",
+        "price": 2106,
+        "rating": 7.8
+    },
+    {
+        "hotel_name": "B&B HOTEL Paris Porte de la Villette",
+        "price": 1872,
+        "rating": 6.7
+    },
+    {
+        "hotel_name": "Hôtel des Andelys",
+        "price": 1302,
+        "rating": 4.0
+    },
+    {
+        "hotel_name": "Residence Inn by Marriott Paris Didot Montparnasse",
+        "price": 4003,
+        "rating": 8.4
+    },
+    {
+        "hotel_name": "Best Western Hotel Le Montparnasse",
+        "price": 3878,
+        "rating": 8.0
+    },
+    {
+        "hotel_name": "HOTEL AU COEUR DES ARTS ET METIERS",
+        "price": 3313,
+        "rating": 8.1
+    },
+    {
+        "hotel_name": "Hôtel Maison Traversière",
+        "price": 3204,
+        "rating": 8.7
+    },
+    {
+        "hotel_name": "Maison Athénée",
+        "price": 5963,
+        "rating": 8.4
+    },
+    {
+        "hotel_name": "Appart'City Collection Paris Grande Bibliothèque",
+        "price": 2416,
+        "rating": 7.5
+    },
+    {
+        "hotel_name": "WS Louvre - Casanova",
+        "price": 3086,
+        "rating": 8.1
+    },
+    {
+        "hotel_name": "Sejours & Affaires Paris-Davout",
+        "price": 1832,
+        "rating": 8.0
+    },
+    {
+        "hotel_name": "Simon's Boutique Hôtel",
+        "price": 2275,
+        "rating": 8.1
+    },
+    {
+        "hotel_name": "Hôtel Ambre",
+        "price": 2574,
+        "rating": 7.4
+    },
+    {
+        "hotel_name": "Hotel Royal Phare",
+        "price": 4094,
+        "rating": 8.4
+    },
+    {
+        "hotel_name": "Hôtel Dalila",
+        "price": 2093,
+        "rating": 8.4
+    },
+    {
+        "hotel_name": "ibis Paris Gare du Nord Château Landon 10ème",
+        "price": 2619,
+        "rating": 7.5
+    },
+    {
+        "hotel_name": "Hôtel Royal de France Paris 10",
+        "price": 2521,
+        "rating": 2.9
+    },
+    {
+        "hotel_name": "WS Opéra - Laffitte",
+        "price": 2843,
+        "rating": 7.6
+    },
+    {
+        "hotel_name": "Le Trente",
+        "price": 2339,
+        "rating": 7.9
+    },
+    {
+        "hotel_name": "YOOMA Urban Lodge Tour Eiffel",
+        "price": 3627,
+        "rating": 8.4
+    },
+    {
+        "hotel_name": "Cosmotel Hotel",
+        "price": 3536,
+        "rating": 8.4
+    },
+    {
+        "hotel_name": "Residhome Paris Opéra",
+        "price": 3845,
+        "rating": 7.6
+    },
+    {
+        "hotel_name": "Faubourg Saint Denis",
+        "price": 1559,
+        "rating": null
+    },
+    {
+        "hotel_name": "All Suites Appart & Hotel Paris 13 Porte d'Italie",
+        "price": 2039,
+        "rating": 7.6
+    },
+    {
+        "hotel_name": "B&B HOTEL Paris 17 Batignolles",
+        "price": 2471,
+        "rating": 8.0
+    },
+    {
+        "hotel_name": "B&B HOTEL Paris Porte des Lilas",
+        "price": 2106,
+        "rating": 7.8
+    },
+    {
+        "hotel_name": "B&B HOTEL Paris Porte de la Villette",
+        "price": 1763,
+        "rating": 6.7
+    },
+    {
+        "hotel_name": "Hôtel des Andelys",
+        "price": 1302,
+        "rating": 4.0
+    },
+    {
+        "hotel_name": "Residence Inn by Marriott Paris Didot Montparnasse",
+        "price": 4003,
+        "rating": 8.4
+    },
+    {
+        "hotel_name": "Best Western Hotel Le Montparnasse",
+        "price": 3878,
+        "rating": 8.0
+    },
+    {
+        "hotel_name": "HOTEL AU COEUR DES ARTS ET METIERS",
+        "price": 3313,
+        "rating": 8.1
+    },
+    {
+        "hotel_name": "Hôtel Maison Traversière",
+        "price": 3204,
+        "rating": 8.7
+    },
+    {
+        "hotel_name": "Maison Athénée",
+        "price": 5963,
+        "rating": 8.4
+    },
+    {
+        "hotel_name": "Appart'City Collection Paris Grande Bibliothèque",
+        "price": 2416,
+        "rating": 7.5
+    },
+    {
+        "hotel_name": "WS Louvre - Casanova",
+        "price": 3086,
+        "rating": 8.1
+    },
+    {
+        "hotel_name": "Sejours & Affaires Paris-Davout",
+        "price": 1832,
+        "rating": 8.0
+    },
+    {
+        "hotel_name": "Simon's Boutique Hôtel",
+        "price": 2275,
+        "rating": 8.1
+    },
+    {
+        "hotel_name": "Hôtel Ambre",
+        "price": 2574,
+        "rating": 7.4
+    },
+    {
+        "hotel_name": "Hotel Royal Phare",
+        "price": 4094,
+        "rating": 8.4
+    },
+    {
+        "hotel_name": "Hôtel Dalila",
+        "price": 2093,
+        "rating": 8.4
+    },
+    {
+        "hotel_name": "ibis Paris Gare du Nord Château Landon 10ème",
+        "price": 2619,
+        "rating": 7.5
+    },
+    {
+        "hotel_name": "Hôtel Royal de France Paris 10",
+        "price": 2521,
+        "rating": 2.9
+    },
+    {
+        "hotel_name": "WS Opéra - Laffitte",
+        "price": 2843,
+        "rating": 7.6
+    },
+    {
+        "hotel_name": "Le Trente",
+        "price": 2339,
+        "rating": 7.9
+    },
+    {
+        "hotel_name": "YOOMA Urban Lodge Tour Eiffel",
+        "price": 3627,
+        "rating": 8.4
+    },
+    {
+        "hotel_name": "Cosmotel Hotel",
+        "price": 3536,
+        "rating": 8.4
+    },
+    {
+        "hotel_name": "Residhome Paris Opéra",
+        "price": 3845,
+        "rating": 7.6
+    },
+    {
+        "hotel_name": "Faubourg Saint Denis",
+        "price": 1559,
+        "rating": null
+    }
+]

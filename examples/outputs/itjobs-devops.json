@@ -42,7 +42,7 @@
         "image": "https://static.itjobs.pt/images/companies/20/754/7632/logo.png?btfc=1732276432",
         "company": "Softarex Technologies",
         "location": "Lisboa, Porto, Internacional",
-        "salary": "\u20ac60\u00a0000"
+        "salary": "60 000"
     },
     {
         "job_title": "Devops/Platform Architect",
@@ -51,7 +51,7 @@
         "image": "https://static.itjobs.pt/images/companies/0e/fe3/885/logo.png?btfc=1659802323",
         "company": "Michael Page Portugal",
         "location": "Aveiro",
-        "salary": "\u20ac55\u00a0000"
+        "salary": "55 000"
     },
     {
         "job_title": "Devops/Platform Architect",
@@ -60,7 +60,7 @@
         "image": "https://static.itjobs.pt/images/companies/0e/fe3/885/logo.png?btfc=1659802323",
         "company": "Michael Page Portugal",
         "location": "Aveiro",
-        "salary": "\u20ac55\u00a0000"
+        "salary": "55 000"
     },
     {
         "job_title": "DevOps Engineer",
@@ -72,7 +72,7 @@
         "salary": null
     },
     {
-        "job_title": "Infrastructure Engineer \u2013 Senior DevOps Engineer",
+        "job_title": "Infrastructure Engineer – Senior DevOps Engineer",
         "day": 16,
         "month": "dez",
         "image": "https://static.itjobs.pt/images/companies/02/2e0/6451/logo.png?btfc=1721835002",
@@ -104,7 +104,7 @@
         "month": "dez",
         "image": "https://static.itjobs.pt/images/companies/2b/cab/995/logo.png?btfc=1727821235",
         "company": "Integer Consulting",
-        "location": "Lisboa, Set\u00fabal, Porto",
+        "location": "Lisboa, Setúbal, Porto",
         "salary": null
     },
     {
@@ -185,16 +185,7 @@
         "month": "nov",
         "image": "https://static.itjobs.pt/images/companies/16/a5c/286/logo.png?btfc=1726606083",
         "company": "Eurotux",
-        "location": "Braga, Bragan\u00e7a",
-        "salary": null
-    },
-    {
-        "job_title": "Senior DevOps",
-        "day": 21,
-        "month": "nov",
-        "image": "https://static.itjobs.pt/images/companies/2b/cab/995/logo.png?btfc=1727821235",
-        "company": "Integer Consulting",
-        "location": "Lisboa",
+        "location": "Braga, Bragança",
         "salary": null
     },
     {
@@ -235,6 +226,15 @@
     },
     {
         "job_title": "DevOps Engineer",
+        "day": 13,
+        "month": "dez",
+        "image": "https://static.itjobs.pt/images/companies/21/9c5/6466/logo.png?btfc=1708039331",
+        "company": "Neotalent Conclusion",
+        "location": null,
+        "salary": null
+    },
+    {
+        "job_title": "DevOps Engineer",
         "day": null,
         "month": null,
         "image": "https://static.itjobs.pt/images/companies/48/ab2/624/logo.png?btfc=1480344282",
@@ -243,11 +243,11 @@
         "salary": null
     },
     {
-        "job_title": "DevOps Engineer",
+        "job_title": "Senior Azure DevOps Engineer",
         "day": 13,
         "month": "dez",
-        "image": "https://static.itjobs.pt/images/companies/21/9c5/6466/logo.png?btfc=1708039331",
-        "company": "Neotalent Conclusion",
+        "image": "https://static.itjobs.pt/images/companies/fd/da6/7459/logo.png?btfc=1710936160",
+        "company": "HumanIT",
         "location": null,
         "salary": null
     },
@@ -324,11 +324,20 @@
         "salary": null
     },
     {
-        "job_title": "DevOps / Solutions Architect",
-        "day": 21,
-        "month": "nov",
-        "image": "https://static.itjobs.pt/images/companies/fb/aaf/7630/logo.png?btfc=1732094327",
-        "company": "Koloni",
+        "job_title": "DevOps",
+        "day": 2,
+        "month": "dez",
+        "image": "https://static.itjobs.pt/images/companies/2b/cab/995/logo.png?btfc=1727821235",
+        "company": "Integer Consulting",
+        "location": "Aveiro, Beja, Braga, Bragança, Castelo Branco, Coi...",
+        "salary": null
+    },
+    {
+        "job_title": "Senior DevOps Engineer",
+        "day": 13,
+        "month": "dez",
+        "image": "https://static.itjobs.pt/images/companies/2b/cab/995/logo.png?btfc=1727821235",
+        "company": "Integer Consulting",
         "location": "Lisboa",
         "salary": null
     },
@@ -339,24 +348,6 @@
         "image": "https://static.itjobs.pt/images/companies/48/ab2/624/logo.png?btfc=1480344282",
         "company": "Outsoft",
         "location": "Aveiro, Viseu, Porto",
-        "salary": null
-    },
-    {
-        "job_title": "DevOps",
-        "day": 2,
-        "month": "dez",
-        "image": "https://static.itjobs.pt/images/companies/2b/cab/995/logo.png?btfc=1727821235",
-        "company": "Integer Consulting",
-        "location": "Aveiro, Beja, Braga, Bragan\u00e7a, Castelo Branco, Coi...",
-        "salary": null
-    },
-    {
-        "job_title": "Senior DevOps Engineer",
-        "day": 13,
-        "month": "dez",
-        "image": "https://static.itjobs.pt/images/companies/2b/cab/995/logo.png?btfc=1727821235",
-        "company": "Integer Consulting",
-        "location": "Lisboa",
         "salary": null
     },
     {
@@ -383,8 +374,8 @@
         "month": "dez",
         "image": "https://static.itjobs.pt/images/companies/b0/ba5/6807/logo.png?btfc=1708445349",
         "company": "Altar.io",
-        "location": "Aveiro, Braga, Coimbra, Faro, Lisboa, Set\u00fabal, Por...",
-        "salary": "\u20ac55\u00a0000"
+        "location": "Aveiro, Braga, Coimbra, Faro, Lisboa, Setúbal, Por...",
+        "salary": "55 000"
     },
     {
         "job_title": "Senior Fullstack Developer (Node.JS / Angular)",
@@ -392,8 +383,8 @@
         "month": "dez",
         "image": "https://static.itjobs.pt/images/companies/b0/ba5/6807/logo.png?btfc=1708445349",
         "company": "Altar.io",
-        "location": "Aveiro, Braga, Coimbra, Faro, Lisboa, Set\u00fabal, Por...",
-        "salary": "\u20ac45\u00a0000"
+        "location": "Aveiro, Braga, Coimbra, Faro, Lisboa, Setúbal, Por...",
+        "salary": "45 000"
     },
     {
         "job_title": "Fullstack Developer (Node.JS / Angular)",
@@ -401,8 +392,8 @@
         "month": "dez",
         "image": "https://static.itjobs.pt/images/companies/b0/ba5/6807/logo.png?btfc=1708445349",
         "company": "Altar.io",
-        "location": "Aveiro, Braga, Coimbra, Faro, Lisboa, Set\u00fabal, Por...",
-        "salary": "\u20ac40\u00a0000"
+        "location": "Aveiro, Braga, Coimbra, Faro, Lisboa, Setúbal, Por...",
+        "salary": "40 000"
     },
     {
         "job_title": "Fullstack Developer",
@@ -411,7 +402,7 @@
         "image": "https://static.itjobs.pt/images/companies/cc/1aa/977/logo.png?btfc=1666799406",
         "company": "MyPeople",
         "location": "Lisboa",
-        "salary": "\u20ac40\u00a0000"
+        "salary": "40 000"
     },
     {
         "job_title": "C# Developer",
@@ -420,7 +411,7 @@
         "image": "https://static.itjobs.pt/images/companies/0e/fe3/885/logo.png?btfc=1659802323",
         "company": "Michael Page Portugal",
         "location": "Lisboa",
-        "salary": "\u20ac30\u00a0800"
+        "salary": "30 800"
     },
     {
         "job_title": ".NET Developer",
@@ -446,6 +437,177 @@
         "month": "dez",
         "image": "https://static.itjobs.pt/images/companies/5b/69b/501/logo.png?btfc=1728592402",
         "company": "Noesis Portugal",
+        "location": "Lisboa",
+        "salary": null
+    },
+    {
+        "job_title": "Java Expert",
+        "day": 18,
+        "month": "dez",
+        "image": "https://static.itjobs.pt/images/companies/dc/09c/1479/logo.png?btfc=1716454542",
+        "company": "Devoteam",
+        "location": "Aveiro, Lisboa, Porto",
+        "salary": null
+    },
+    {
+        "job_title": "Python developer",
+        "day": 17,
+        "month": "dez",
+        "image": "https://static.itjobs.pt/images/companies/d9/3ed/984/logo.png?btfc=1685987163",
+        "company": "KCS IT",
+        "location": "Leiria, Lisboa, Porto",
+        "salary": null
+    },
+    {
+        "job_title": "DevOps Engineer",
+        "day": null,
+        "month": null,
+        "image": "https://static.itjobs.pt/images/companies/48/ab2/624/logo.png?btfc=1480344282",
+        "company": "Outsoft",
+        "location": "Aveiro, Viseu, Porto",
+        "salary": null
+    },
+    {
+        "job_title": "Automation Tester",
+        "day": 17,
+        "month": "dez",
+        "image": "https://static.itjobs.pt/images/companies/dc/09c/1479/logo.png?btfc=1716454542",
+        "company": "Devoteam",
+        "location": "Aveiro, Lisboa, Porto",
+        "salary": null
+    },
+    {
+        "job_title": ".NET Developer",
+        "day": 16,
+        "month": "dez",
+        "image": "https://static.itjobs.pt/images/companies/d9/3ed/984/logo.png?btfc=1685987163",
+        "company": "KCS IT",
+        "location": "Porto",
+        "salary": null
+    },
+    {
+        "job_title": "PHP Developer",
+        "day": 12,
+        "month": "dez",
+        "image": "https://static.itjobs.pt/images/companies/f8/bf0/2064/logo.png?btfc=1728669234",
+        "company": "PTisp",
+        "location": "Faro, Lisboa, Santarém",
+        "salary": null
+    },
+    {
+        "job_title": "Senior Software Product Developer – React, JavaScript, TDD/ATDD, XP",
+        "day": 10,
+        "month": "dez",
+        "image": "https://static.itjobs.pt/images/companies/de/a18/7610/logo.png?btfc=1732889169",
+        "company": "The Agile Thinkers",
+        "location": "Braga, Lisboa",
+        "salary": null
+    },
+    {
+        "job_title": "FrontEnd Developer",
+        "day": 9,
+        "month": "dez",
+        "image": "https://static.itjobs.pt/images/companies/0d/736/2522/logo.png?btfc=1664311431",
+        "company": "MedicineOne",
+        "location": "Aveiro, Coimbra, Leiria, Lisboa, Porto",
+        "salary": null
+    },
+    {
+        "job_title": "QA Automation Specialist",
+        "day": 8,
+        "month": "dez",
+        "image": "https://static.itjobs.pt/images/companies/85/e55/4598/logo.png?btfc=1729858554",
+        "company": "KWAN",
+        "location": null,
+        "salary": null
+    },
+    {
+        "job_title": "Full Stack Engineer (.NET & Angular/React)",
+        "day": 6,
+        "month": "dez",
+        "image": "https://static.itjobs.pt/images/companies/f9/388/1307/logo.png?btfc=1733587103",
+        "company": "99x Europe",
+        "location": "Lisboa",
+        "salary": null
+    },
+    {
+        "job_title": "React Developer",
+        "day": 4,
+        "month": "dez",
+        "image": "https://static.itjobs.pt/images/companies/dc/09c/1479/logo.png?btfc=1716454542",
+        "company": "Devoteam",
+        "location": "Aveiro, Lisboa, Porto",
+        "salary": null
+    },
+    {
+        "job_title": "DevOps Engineer",
+        "day": null,
+        "month": null,
+        "image": "https://static.itjobs.pt/images/companies/48/ab2/624/logo.png?btfc=1480344282",
+        "company": "Outsoft",
+        "location": "Aveiro, Viseu, Porto",
+        "salary": null
+    },
+    {
+        "job_title": "Gestor aplicacional",
+        "day": 3,
+        "month": "dez",
+        "image": "https://static.itjobs.pt/images/companies/f4/8c0/2036/logo.png?btfc=1561643071",
+        "company": "NOSHAPE",
+        "location": "Porto",
+        "salary": null
+    },
+    {
+        "job_title": "Fullstack Developer (Java & React)",
+        "day": 2,
+        "month": "dez",
+        "image": "https://static.itjobs.pt/images/companies/34/35c/599/logo.png?btfc=1695839683",
+        "company": "Aubay",
+        "location": "Porto",
+        "salary": null
+    },
+    {
+        "job_title": "Fullstack Developer (Java & Angular) – French Speaker",
+        "day": 30,
+        "month": "nov",
+        "image": "https://static.itjobs.pt/images/companies/34/35c/599/logo.png?btfc=1695839683",
+        "company": "Aubay",
+        "location": "Porto",
+        "salary": null
+    },
+    {
+        "job_title": "Java & Kafka Software Developer",
+        "day": 29,
+        "month": "nov",
+        "image": "https://static.itjobs.pt/images/companies/34/35c/599/logo.png?btfc=1695839683",
+        "company": "Aubay",
+        "location": "Porto",
+        "salary": null
+    },
+    {
+        "job_title": ".Net Developer",
+        "day": 28,
+        "month": "nov",
+        "image": "https://static.itjobs.pt/images/companies/2b/cab/995/logo.png?btfc=1727821235",
+        "company": "Integer Consulting",
+        "location": "Leiria, Lisboa, Porto",
+        "salary": null
+    },
+    {
+        "job_title": ".Net Developer Senior (English and French Speaker)",
+        "day": 27,
+        "month": "nov",
+        "image": "https://static.itjobs.pt/images/companies/2b/cab/995/logo.png?btfc=1727821235",
+        "company": "Integer Consulting",
+        "location": "Lisboa, Setúbal, Porto",
+        "salary": null
+    },
+    {
+        "job_title": "Back-End Developer Java",
+        "day": 26,
+        "month": "nov",
+        "image": "https://static.itjobs.pt/images/companies/dc/09c/1479/logo.png?btfc=1716454542",
+        "company": "Devoteam",
         "location": "Lisboa",
         "salary": null
     }

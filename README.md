@@ -4,29 +4,46 @@ Sucateiro is a Python-based web scrapping tool that extracts data from web pages
 
 You define what you want to extract from a web page's layout in a config file and Sucateiro extracts it!
 
-## Examples
+Work In Progress.
 
-The ```examples/``` folder contains some YAML configuration examples and ```outputs/``` contains their respective results.
+Please be mindful of websites' terms of services before scrapping them.
+
+Also, this tool is constrained by the general limitations of web scrapping, such as CAPTCHAs and IP blocking. Integration with CAPTCHA solvers and use of Proxies are possible alternatives but I'm not considering implementing them atm. Right now this is a best-effort solution.
+
+## How it works
+
+![diagram](assets/diagram.png "Workflow Diagram")
+
+## Usage
+
+The ```examples/``` folder contains some YAML configuration examples and their respective outputs.
 
 For example, running:
 
 ```
-$ python3 sucateiro.py examples/exampleITJobs.yml
+$ python3 sucateiro.py examples/configs/ITJobs-DevOps.yml
 ```
 
-Dumps as JSON ITJob's first 5 pages of job posts for DevOps (file outputs/itjobs.json).
+Dumps as JSON ITJob's first 5 pages of job posts for DevOps (file ```examples/outputs/itjobs-devops.json```).
 
 
 And
 
 ```
-$ python3 sucateiro.py examples/exampleOLXIphones.yml
+$ python3 sucateiro.py examples/configs/OLX-Iphone.yml
 ```
 
-Dumps OLX's search results for Iphones on sale.
+Dumps OLX's search results for Iphones on sale (```examples/outputs/olx-iphone.json```).
 
 
 The scrapping is done with the same python code, defined by the configuration files.
+
+## Config file explained
+
+![conf](assets/config_explained.png "Config Explained")
+
+Real documentation coming soon, I promise
+
 
 ## TODO
 
